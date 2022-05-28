@@ -4,11 +4,16 @@ TraceStream: Anomalous Service Localization based on Trace Stream Clustering wit
 
 ### Raw Dataset
 
-Raw dataset can be found [here](https://github.com/TraceStream2022/TraceStream/tree/master/data)
+Raw dataset of TrainTicket system can be found [here](https://github.com/TraceStream2022/TraceStream/tree/master/data/trainticket)
 
+### Processed Data
 
-### Processed Graph Data
-
+Processed data based on the above raw dataset can be found [here](https://github.com/TraceStream2022/TraceStream/tree/master/data)
 
 ### Result
 
+All the experimental results can be found [here](https://github.com/TraceStream2022/TraceStream/tree/master/results)
+
+### About Source Code
+
+All source code will be made public after the paper is published
